@@ -4,3 +4,5 @@ new_file 1st modified from local
 
 new_file 2nd modified from remote
 
+new_file modified from branch_2
+
